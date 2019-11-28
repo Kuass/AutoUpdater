@@ -1,0 +1,61 @@
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\SmartDeviceProject2.exe
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\SmartDeviceProject2.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Comm.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Comm.resources.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Forms.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Forms.WindowsCE.asmmeta.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Printing.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Printing.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Comm.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.Forms.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Ats.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\ko\Ats.Comm.resources.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.Properties.Resources.resources
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.exe
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\AutoUpdater.AutoUpdater.resources
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Comm.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Comm.resources.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Forms.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Forms.WindowsCE.asmmeta.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Printing.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Printing.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Comm.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.Forms.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ats.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\ko\Ats.Comm.resources.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Main.resources
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\System.Data.SQLite.dll
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\System.Data.SQLite.pdb
+C:\Users\김호영\Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\System.Data.SQLite.xml
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Main.resources
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\Ats.Comm.pdb
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\Ats.pdb
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\ko\Ats.Comm.resources.dll
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\SQLite.Interop.066.DLL
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\SQLite.Interop.066.exp
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\SQLite.Interop.066.lib
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\System.Data.SQLite.dll
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\Ats.Comm.dll
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\Ats.dll
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\Ats.Forms.dll
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\bin\Debug\Ats.Forms.pdb
+C:\Users\moderntec\Desktop\Autobase\Backup\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Setting.resources
